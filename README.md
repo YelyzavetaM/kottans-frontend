@@ -28,6 +28,6 @@ I really enjoyed this task and will use terminal now more often, because before 
 
 - navigation - for sure! 
 
-<a href='https://github.com/YelyzavetaM/kottans-frontend/tree/master/task_linux_cli'>task_linux_cli screenshots</a>
+<a href='https://github.com/YelyzavetaM/kottans-frontend/blob/master/task_linux_cli/task_linux_cli.md'>task_linux_cli screenshots</a>
 
 ## JS Basics
