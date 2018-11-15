@@ -30,4 +30,17 @@ I really enjoyed this task and will use terminal now more often, because before 
 
 <a href='https://github.com/YelyzavetaM/kottans-frontend/blob/master/task_linux_cli/task_linux_cli.md'>task_linux_cli screenshots</a>
 
+## Git Collaboration
+
+### What was new to me
+
+- I finally understood the difference between git pull and git fetch. It was super useful
+- using 'wider' versions of git log, like git log --author
+- squashing commits using git rebase
+
+### What I intend to use in future
+
+- I will definitely use all git commands that I use now + in a while will try to use git rebase, cause I think it's quite a good one. 
+
+
 ## JS Basics
