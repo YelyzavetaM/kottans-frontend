@@ -44,4 +44,10 @@ I really enjoyed this task and will use terminal now more often, because before 
 
 <a href='https://github.com/YelyzavetaM/kottans-frontend/blob/git-collaboration/task_git_collaboration/task_git_collaboration.md'>task_git_collaboration screenshots</a>
 
+## Intro to HTML and CSS
+
+### What was new to me
+
+- tags like <sub> and <sup>, <del> and <ins>
+
 ## JS Basics
