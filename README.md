@@ -2,7 +2,7 @@
 
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/git-intro.md'>Git Basics</a>
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md'>Linux CLI, and HTTP</a>
-- [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md'>VCS (hello gitty), GitHub and Collaboration</a>
+- [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md'>VCS (hello gitty), GitHub and Collaboration</a>
 - [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md'>Intro to HTML & CSS</a>
 - [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md'>Responsive Web Design</a>
 - [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/js-basics.md'>JavaScript Basics</a>
@@ -42,5 +42,6 @@ I really enjoyed this task and will use terminal now more often, because before 
 
 - I will definitely use all git commands that I use now + in a while will try to use git rebase, cause I think it's quite a good one. 
 
+<a href='https://github.com/YelyzavetaM/kottans-frontend/blob/git-collaboration/task_git_collaboration/task_git_collaboration.md'>task_git_collaboration screenshots</a>
 
 ## JS Basics
