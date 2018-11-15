@@ -18,11 +18,11 @@ I really enjoyed this task and will use terminal now more often, because before 
 
 ### What was new to me
 
-- most of the commands were new, especially redirection
+- most of the commands were new, especially those with redirection
 
 ### What surprised me
 
--  the redirect part and the part with configuring the environment really impressed. Had no idea before that it is possible to do!
+-  the redirect part and the part with configuring the environment really impressed me. Had no idea before that it is possible to do!
 
 ### What I intend to use in future
 
