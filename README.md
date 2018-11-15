@@ -48,6 +48,6 @@ I really enjoyed this task and will use terminal now more often, because before 
 
 ### What was new to me
 
-- tags like <sub> and <sup>, <del> and <ins>
+- tags like \<sub\> and \<sup\>, \<del\> and \<ins\>
 
 ## JS Basics
