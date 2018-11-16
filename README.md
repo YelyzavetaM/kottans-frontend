@@ -1,4 +1,4 @@
-# kottans-frontend
+# kottans-frontend :heart_eyes:
 
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/git-intro.md'>Git Basics</a>
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md'>Linux CLI, and HTTP</a>
@@ -50,4 +50,9 @@ I really enjoyed this task and will use terminal now more often, because before 
 
 - tags like \<sub\> and \<sup\>, \<del\> and \<ins\>
 
-## JS Basics
+### What I intend to use in future
+
+Basically everything regarding HTML&CSS except for tables(not sore if it is still being used :sweat_smile:)
+
+<a href='https://github.com/YelyzavetaM/kottans-frontend/blob/master/task_html_css_intro/task_html_css_intro.md'>task_html_css_intro screenshots</a>
+
