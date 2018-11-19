@@ -3,7 +3,7 @@
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/git-intro.md'>Git Basics</a>
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md'>Linux CLI, and HTTP</a>
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md'>VCS (hello gitty), GitHub and Collaboration</a>
-- [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md'>Intro to HTML & CSS</a>
+- [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md'>Intro to HTML & CSS</a>
 - [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md'>Responsive Web Design</a>
 - [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/js-basics.md'>JavaScript Basics</a>
 - [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/js-dom.md'>Document Object Model</a> 
@@ -52,7 +52,7 @@ I really enjoyed this task and will use terminal now more often, because before 
 
 ### What I intend to use in future
 
-Basically everything regarding HTML&CSS except for tables(not sore if it is still being used :sweat_smile:)
+Basically everything regarding HTML&CSS except for tables(not sure if it is still being used :sweat_smile:)
 
 <a href='https://github.com/YelyzavetaM/kottans-frontend/blob/master/task_html_css_intro/task_html_css_intro.md'>task_html_css_intro screenshots</a>
 
