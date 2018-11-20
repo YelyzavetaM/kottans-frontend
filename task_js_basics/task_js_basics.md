@@ -1,5 +1,1 @@
-## what was new to me
-
-## what surprised me
-
-## what I intend to use in future
+![alt text](https://github.com/YelyzavetaM/kottans-frontend/blob/master/task_js_basics/12.png)
