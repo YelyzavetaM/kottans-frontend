@@ -4,7 +4,7 @@
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md'>Linux CLI, and HTTP</a>
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md'>VCS (hello gitty), GitHub and Collaboration</a>
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md'>Intro to HTML & CSS</a>
-- [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md'>Responsive Web Design</a>
+- [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md'>Responsive Web Design</a>
 - [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/js-basics.md'>JavaScript Basics</a>
 - [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/js-dom.md'>Document Object Model</a> 
 
@@ -56,3 +56,19 @@ Basically everything regarding HTML&CSS except for tables(not sure if it is stil
 
 <a href='https://github.com/YelyzavetaM/kottans-frontend/blob/master/task_html_css_intro/task_html_css_intro.md'>task_html_css_intro screenshots</a>
 
+
+## Responsive Web Design
+
+### What was new to me
+
+- making tables responsive
+
+### What surprised me
+
+- the ability to use different 2 breakpoints to make some changes between it (why didn't I think about it before :neutral_face:)
+
+### What I intend to use in future
+
+Everything, because it's basics for making website responsive
+
+<a href='https://github.com/YelyzavetaM/kottans-frontend/blob/master/task_responsive_web_design/task_responsive_web_design.md'>task_responsive_web_design screenshots</a>
