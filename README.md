@@ -5,7 +5,7 @@
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md'>VCS (hello gitty), GitHub and Collaboration</a>
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md'>Intro to HTML & CSS</a>
 - [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md'>Responsive Web Design</a>
-- [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/js-basics.md'>JavaScript Basics</a>
+- [x] <a href='https://github.com/kottans/frontend/blob/master/tasks/js-basics.md'>JavaScript Basics</a>
 - [ ] <a href='https://github.com/kottans/frontend/blob/master/tasks/js-dom.md'>Document Object Model</a> 
 
 ## Git and GitHub
@@ -72,3 +72,20 @@ Basically everything regarding HTML&CSS except for tables(not sure if it is stil
 Everything, because it's basics for making website responsive
 
 <a href='https://github.com/YelyzavetaM/kottans-frontend/blob/master/task_responsive_web_design/task_responsive_web_design.md'>task_responsive_web_design screenshots</a>
+
+
+## JS Basics
+
+### What was new to me
+
+Almost nothing, but still it was useful to practice some array methods like forEach, reduce etc. Have never used it before in practice.
+
+### What surprised me
+
+Quizes, they were really cool. Some of them too easy, but tricky and it was interesting to solve. Also tasks on FreeCodeCamp, these are high level (as it seemd to me), but exteremely useful and practical.
+
+### What I intend to use in future
+
+Everythiiing
+
+<a href='https://github.com/YelyzavetaM/kottans-frontend/blob/master/task_js_basics/task_js_basics.md'>task_js_basics screenshots</a>
